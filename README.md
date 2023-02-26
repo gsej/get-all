@@ -1,2 +1,2 @@
 # get-all
-get all repos
+get all repos in account for convenience
